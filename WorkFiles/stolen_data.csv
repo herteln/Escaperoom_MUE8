@@ -1,0 +1,7 @@
+id,name,access_level,file_count,transfer_mb,status
+252,Paul,1,69,215,ACTIVE
+253,Anna,2,91,370,ACTIVE
+254,Laura,4,77,396,ACTIVE
+255,Daniel,8,1112,9976,UNKNOWN
+256,Thomas,2,32,108,ACTIVE
+257,Marie,3,33,109,ACTIVE

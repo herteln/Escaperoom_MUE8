@@ -7,7 +7,7 @@ class DynamicRoom(EscapeRoom):
 
     def __init__(self):
         super().__init__()
-        self.set_metadata("Markus", __name__)
+        self.set_metadata("Dr. Markus Berg", __name__)
         #self.add_level(self.create_level1())
         #self.add_level(self.create_level2())
         #self.add_level(self.create_level3())

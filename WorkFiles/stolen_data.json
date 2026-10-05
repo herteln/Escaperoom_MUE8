@@ -1,0 +1,50 @@
+[
+    {
+        "id": 252,
+        "name": "Paul",
+        "access_level": 1,
+        "file_count": 69,
+        "transfer_mb": 215,
+        "status": "ACTIVE"
+    },
+    {
+        "id": 253,
+        "name": "Anna",
+        "access_level": 2,
+        "file_count": 91,
+        "transfer_mb": 370,
+        "status": "ACTIVE"
+    },
+    {
+        "id": 254,
+        "name": "Laura",
+        "access_level": 4,
+        "file_count": 77,
+        "transfer_mb": 396,
+        "status": "ACTIVE"
+    },
+    {
+        "id": 255,
+        "name": "Daniel",
+        "access_level": 8,
+        "file_count": 1112,
+        "transfer_mb": 9976,
+        "status": "UNKNOWN"
+    },
+    {
+        "id": 256,
+        "name": "Thomas",
+        "access_level": 2,
+        "file_count": 32,
+        "transfer_mb": 108,
+        "status": "ACTIVE"
+    },
+    {
+        "id": 257,
+        "name": "Marie",
+        "access_level": 3,
+        "file_count": 33,
+        "transfer_mb": 109,
+        "status": "ACTIVE"
+    }
+]
